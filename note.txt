@@ -1,0 +1,23 @@
+font family
+
+
+font-family: Rubik; 700
+font-family: Poppins;400, 700, 500
+font-family: Roboto; 400
+
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+
+
+
+color
+ #56548C; blue
+ #000000; black
+ #21B573; green
+ #FD511A; orange
+
+common
+
+button, features, courses
